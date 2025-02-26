@@ -7,27 +7,43 @@ const projects = [
     description:
       "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
     link: `https://watch-your-movie.netlify.app/`,
-    alert: `⚠️ Alert: Occasionally you might require VPN`,
+    alert: `⚠️ Alert: Occasionally you might need VPN to access website`,
   },
   {
-    name: "WYM ( Watch Your Movie )",
-    url: `https://res.cloudinary.com/dddkhewor/image/upload/fl_preserve_transparency/v1740583782/Screenshot_2025-02-26_205832_l5ex75.jpg?_s=public-apps`,
+    name: "India Buy",
+    url: `https://res.cloudinary.com/dddkhewor/image/upload/v1740594264/Screenshot_2025-02-26_205832_jwmvcs.png`,
     description:
       "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
     link: `https://watch-your-movie.netlify.app/`,
     alert: `⚠️ Alert: Occasionally you might require VPN`,
   },
   {
-    name: "WYM ( Watch Your Movie )",
-    url: `https://res.cloudinary.com/dddkhewor/image/upload/fl_preserve_transparency/v1740583782/Screenshot_2025-02-26_205832_l5ex75.jpg?_s=public-apps`,
+    name: "#HashTag",
+    url: `https://res.cloudinary.com/dddkhewor/image/upload/v1740594687/Screenshot_2025-02-26_205832_zmudcf.png`,
     description:
       "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
     link: `https://watch-your-movie.netlify.app/`,
     alert: `⚠️ Alert: Occasionally you might require VPN`,
   },
   {
-    name: "WYM ( Watch Your Movie )",
-    url: `https://res.cloudinary.com/dddkhewor/image/upload/fl_preserve_transparency/v1740583782/Screenshot_2025-02-26_205832_l5ex75.jpg?_s=public-apps`,
+    name: "Work Management",
+    url: `https://res.cloudinary.com/dddkhewor/image/upload/v1740595053/Screenshot_2025-02-26_205832_pamehk.png`,
+    description:
+      "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
+    link: `https://watch-your-movie.netlify.app/`,
+    alert: `⚠️ Alert: Occasionally you might require VPN`,
+  },
+  {
+    name: "Store Multi Media",
+    url: `https://res.cloudinary.com/dddkhewor/image/upload/v1740596255/Screenshot_2025-02-26_205832_edrphd.png`,
+    description:
+      "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
+    link: `https://watch-your-movie.netlify.app/`,
+    alert: `⚠️ Alert: Occasionally you might require VPN`,
+  },
+  {
+    name: "Lets Chat",
+    url: `https://res.cloudinary.com/dddkhewor/image/upload/v1740595590/Screenshot_2025-02-26_205832_wouggb.png`,
     description:
       "Leverages the open-source TMDB API to showcase trending movies, TV shows, and actors, providing their Wikipedia and social media links. Features powerful search capabilities for movies, trailers, and OTT platform availability, along with personalized recommendations.",
     link: `https://watch-your-movie.netlify.app/`,

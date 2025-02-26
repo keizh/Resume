@@ -4,6 +4,7 @@ import { Button, Chip, Typography } from "@material-tailwind/react";
 const Skills = [
   "JAVASCRIPT",
   "TYPESCRIPT",
+  "GOOGLE OAUTH",
   "REACT JS",
   "NODE JS",
   "CONTEXT API",
@@ -20,7 +21,7 @@ const Skills = [
 
 function Page1() {
   return (
-    <div className="h-screen flex items-center justify-center sm:-my-[5vh] relative z-[5] bg-white">
+    <div className="h-screen flex items-center justify-center mt-[15vh] sm:-mt-[5vh] relative z-[5] bg-white">
       <div className=" flex flex-col items-center gap-[12px]">
         <div className="w-[250px] sm:w-[200px]">
           <img
@@ -36,9 +37,14 @@ function Page1() {
           <br />
           Frontend Full-Stack Software Developer
         </p>
-        <Button color="amber" className="">
-          DOWNLOAD RESUME
-        </Button>
+        <a
+          href="https://res.cloudinary.com/dddkhewor/image/upload/v1740593878/Resume_ugr163.pdf"
+          target="_blank"
+        >
+          <Button color="amber" className="">
+            DOWNLOAD RESUME
+          </Button>
+        </a>
         <div className="mt-5">
           <Typography className="text-center" variant="h5" color="blue">
             SKILLS
