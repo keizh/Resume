@@ -78,7 +78,7 @@ const projects = [
     backendGH: `https://github.com/keizh/StoreMultiMedia_backend`,
     link: `https://storemultimedia-frontend.vercel.app/user/login`,
     alert: "",
-    vlink: "https://www.youtube.com/watch?v=LLNNX9bpzw8",
+    vlink: "",
   },
   {
     name: "Lets Chat",
@@ -94,7 +94,7 @@ const projects = [
     backendGH: `https://github.com/keizh/LETSChat_backend`,
     link: ``,
     alert: `⚠️ Alert: Learning DevOps to Host WEB-SOCKET-SERVER FOR THIS APPLICATION ON AWS CLOUD`,
-    vlink: "",
+    vlink: "https://www.youtube.com/watch?v=LLNNX9bpzw8",
   },
 ];
 
