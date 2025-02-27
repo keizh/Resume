@@ -48,11 +48,13 @@ function ProjectComp({ ele, index }) {
               Backend Code
             </Button>
           </a>
-          <a href={ele.vlink || undefined} target="_blank">
-            <Button disabled={ele.vlink == "" ? true : false}>
-              Video Explanation
-            </Button>
-          </a>
+          {ele.vlink != "" && (
+            <a href={ele.vlink || undefined} target="_blank">
+              <Button disabled={ele.vlink == "" ? true : false}>
+                Video Explanation
+              </Button>
+            </a>
+          )}
         </div>
         <a href={ele.link || undefined} target="_blank">
           <Button
