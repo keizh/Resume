@@ -38,7 +38,7 @@ function Page1() {
           Frontend Full-Stack Software Developer
         </p>
         <a
-          href="https://res.cloudinary.com/dddkhewor/image/upload/v1740593878/Resume_ugr163.pdf"
+          href="https://res.cloudinary.com/dddkhewor/image/upload/v1740654307/Resume_xepwkk.pdfs"
           target="_blank"
         >
           <Button color="amber" className="">

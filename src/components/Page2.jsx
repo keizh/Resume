@@ -78,7 +78,7 @@ const projects = [
     backendGH: `https://github.com/keizh/StoreMultiMedia_backend`,
     link: `https://storemultimedia-frontend.vercel.app/user/login`,
     alert: "",
-    vlink: "",
+    vlink: "https://www.youtube.com/watch?v=LLNNX9bpzw8",
   },
   {
     name: "Lets Chat",
